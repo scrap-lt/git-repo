@@ -1,3 +1,4 @@
 print("hi there!")
-print("everybody's happy.");
+print("everybody's happy.")
 print("Hello")
+print("Hello my dear friend")
