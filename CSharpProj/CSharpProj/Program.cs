@@ -10,8 +10,8 @@ namespace CSharpProj
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world;;");
-            Console.WriteLine("What's up");
+            Console.WriteLine("Hello world;");
+            Console.WriteLine("What's up;");
         }
     }
 }
